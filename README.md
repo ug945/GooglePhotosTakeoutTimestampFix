@@ -5,6 +5,7 @@
 https://exiftool.org/
 
 https://takeout.google.com/
+
 only select google photos then download the zip file, unzip the file 
 
 
